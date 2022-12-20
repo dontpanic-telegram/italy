@@ -1,0 +1,219 @@
+/*VISUALIZZAZIONE DA TABLET*/
+@media (max-width: 980px) {
+    .menu{
+    position: relative;
+    left: 40%;
+}
+
+.cover1{
+    width: 963px;
+}
+
+.titolo{
+    left: 350px;
+}
+
+.sottotiolo{
+    position: relative;
+    left: 70px;
+    width: 800px;
+}
+
+.gruppi, .canali{
+    display: flex;
+    flex-direction: initial;
+    gap: 100px;
+    width: 800px;
+}
+
+.pulsantetegram{
+    position: relative;
+    left: 300px;
+}
+
+.collaborazioni{
+    position: relative;
+    left: 350px;
+}
+
+.universe{
+    position: relative;
+    left: 300px;
+}
+
+.logofooter{
+position: relative;
+left: 370px;
+}
+
+.alberico{
+    position: relative;
+    left: 350px;
+}
+
+}
+
+
+/*VISUALIZZAZIONE DA SMARTPHONE*/
+@media (max-width: 375px) {
+
+body{
+    height: 572vh;
+}
+
+    #container1{
+
+        height: 60px;
+       
+    }
+
+    .logo{
+        position: relative;
+        left: 27%;
+        top: 5px;
+        width: 150px;
+        
+    }
+
+    .menu{
+        position: relative;
+        bottom: 55px;
+        left: -10px;
+        display: flex;
+        flex-direction: initial;
+        gap: 15px; 
+        font-size: 13px;
+        width: 100px;
+        
+    }
+
+    .menu a{
+
+        position: relative;
+        top: 50px;
+        left: 40%;
+        
+    }
+
+    .cover1{
+
+        width: 360px;
+        
+    }
+    
+.titolo{
+
+    position: relative;
+    left: 30px;
+    font-size: 30px;
+   
+}
+
+.sottotiolo{
+
+    position: relative;
+    left: 10px;
+    font-size: 20px;
+    width: 340px;
+    
+}
+
+.gruppi, .canali{
+
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    position: relative;
+    left: 75px;
+    width: 200px;
+}
+
+.pulsantetegram{
+
+    position: relative;
+    top: 550px;
+    left: 28px;
+    width: 300px;
+   
+}
+
+.s1{
+    font-size: 20px;
+    position: relative;
+    left: 30px;
+    
+}
+
+.telegramicon{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 5px;
+   
+}
+
+.collaborazioni{
+
+    position: relative;
+    left: 30px;
+    
+}
+
+.universe{
+    position: relative;
+    left: 30px;
+    width: 300px;
+    height: 400px;
+}
+
+.iconuniverse{
+    position: relative;
+    left: 55px;
+    
+}
+
+.titolouniverse{
+ 
+    position: relative;
+    left: 30px;
+    width: 250px;
+
+}
+
+.pulsanteuniverse{
+    width: 250px ;
+    
+}
+
+.telegramuniverse{
+
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 5px ;
+    
+}
+
+.s2{
+    font-size: 20px;
+    position: relative;
+    left: 10px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.logofooter{
+    position: relative;
+    left: 50px;
+    
+}
+
+.alberico{
+    position: relative;
+    left: 50px;
+    width: 280px;
+}
+
+
+
+}
