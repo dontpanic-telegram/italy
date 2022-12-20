@@ -97,14 +97,14 @@ body{
 
     .cover1{
 
-        width: 400px;
+        width: 410px;
         
     }
     
 .titolo{
 
     position: relative;
-    left: 30px;
+    left: 40px;
     font-size: 30px;
    
 }
@@ -112,7 +112,7 @@ body{
 .sottotiolo{
 
     position: relative;
-    left: 10px;
+    left: 20px;
     font-size: 20px;
     width: 340px;
     
