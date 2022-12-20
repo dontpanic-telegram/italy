@@ -63,13 +63,13 @@ body{
 
     #container1{
 
-        height: 60px;
+        height: 65px;
        
     }
 
     .logo{
         position: relative;
-        left: 29%;
+        left: 33%;
         top: 5px;
         width: 150px;
         
@@ -78,11 +78,11 @@ body{
     .menu{
         position: relative;
         bottom: 55px;
-        left: 30px;
+        left: 0px;
         display: flex;
         flex-direction: initial;
-        gap: 15px; 
-        font-size: 13px;
+        gap: 30px; 
+        font-size: 17px;
         width: 100px;
         
     }
