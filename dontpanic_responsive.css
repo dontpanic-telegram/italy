@@ -91,7 +91,7 @@ body{
 
         position: relative;
         top: 50px;
-        left: 40%;
+        left: 30%;
         
     }
 
@@ -104,7 +104,7 @@ body{
 .titolo{
 
     position: relative;
-    left: 40px;
+    left: 80px;
     font-size: 30px;
    
 }
@@ -112,7 +112,7 @@ body{
 .sottotiolo{
 
     position: relative;
-    left: 20px;
+    left: 80px;
     font-size: 20px;
     width: 340px;
     
