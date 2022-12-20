@@ -55,10 +55,10 @@ left: 370px;
 
 
 /*VISUALIZZAZIONE DA SMARTPHONE*/
-@media (max-width: 375px) {
+@media (max-width: 500px) {
 
 body{
-    height: 572vh;
+    height: 400vh;
 }
 
     #container1{
